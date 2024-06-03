@@ -12,7 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/mu2602659)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red)](mailto:mu2602659@gmail.com)
 </div>
-<br>
+
 ### 🌟 About Me:
 
 I'm a passionate developer interested in building innovative solutions. Currently, I'm focused on learning and mastering new technologies.
@@ -20,11 +20,10 @@ I'm a passionate developer interested in building innovative solutions. Currentl
 - 🔭 I'm currently working on enhancing my skills in various technologies.
 - 🌱 I’m currently learning advanced concepts in Full Stack development.
 - 🧠 I'm also exploring various Artificial Intelligence techniques and experimenting with machine learning algorithms to solve complex problems.
-<br>
+
 ### 🛠️ Technologies to be worked on:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,python,django,cpp,java,kotlin,bootstrap)](https://skillicons.dev)
-<br>
 ### 😄 Fun Fact:
 
 I once accidentally boarded the wrong train and ended up in a completely different city, which turned into an unexpected adventure!
