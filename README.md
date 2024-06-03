@@ -19,7 +19,7 @@ I'm a passionate developer interested in building innovative solutions. Currentl
 
 ### 🛠️ Tools & Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,python,django,reactnative,cpp,pycharm,java,kotlin,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,python,django,cpp,pycharm,java,kotlin,bootstrap)](https://skillicons.dev)
 
 ### 😄 Fun Fact:
 
