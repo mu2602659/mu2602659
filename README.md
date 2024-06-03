@@ -1,8 +1,12 @@
-### Hi there, I'm Muhammad Uzair! 👋
+<div align="center">
+  <h1>Hi there, I'm Muhammad Uzair! 👋</h1>
 
-🌟 I develop cool websites.
-🚀 I develop Cross-platform mobile applications.
-💻 I develop Full Stack web applications.
+  🌟 I develop cool websites.<br>
+  🚀 I develop Cross-platform mobile applications.<br>
+  💻 I develop Full Stack web applications.
+</div>
+
+### 🌟 About Me:
 
 I'm a passionate developer interested in building innovative solutions. Currently, I'm focused on learning and mastering new technologies.
 
@@ -17,9 +21,9 @@ I'm a passionate developer interested in building innovative solutions. Currentl
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/mu2602659)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red)](mailto:mu2602659@gmail.com)
 
-### 🛠️ Tools & Technologies:
+### 🛠️ Technologies to be worked on:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,python,django,reactnative,cpp,pycharm,java,kotlin,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,python,django,cpp,java,kotlin,bootstrap)](https://skillicons.dev)
 
 ### 😄 Fun Fact:
 
