@@ -1,8 +1,8 @@
-### Hi there, I'm Muhammad Uzair! 👋
+### <div align="center">Hi there, I'm Muhammad Uzair! 👋</div>
 
-🌟 I develop cool websites.
-🚀 I develop Cross-platform mobile applications.
-💻 I develop Full Stack web applications.
+<div align="center">
+  <div id="animated-text" style="font-size: 1.5em; font-weight: bold;"></div>
+</div>
 
 I'm a passionate developer interested in building innovative solutions. Currently, I'm focused on learning and mastering new technologies.
 
@@ -24,8 +24,3 @@ I'm a passionate developer interested in building innovative solutions. Currentl
 ### 😄 Fun Fact:
 
 I once accidentally boarded the wrong train and ended up in a completely different city, which turned into an unexpected adventure!
-
-<!---
-mu2602659/mu2602659 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
