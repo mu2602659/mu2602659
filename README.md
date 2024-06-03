@@ -6,6 +6,8 @@
   💻 I develop Full Stack web applications.
 </div>
 
+### About Me
+
 I'm a passionate developer interested in building innovative solutions. Currently, I'm focused on learning and mastering new technologies.
 
 - 🔭 I'm currently working on enhancing my skills in various technologies.
