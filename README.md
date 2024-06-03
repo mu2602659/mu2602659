@@ -19,23 +19,25 @@ I'm a passionate developer interested in building innovative solutions. Currentl
 
 ### 🛠️ Tools & Technologies:
 
-[![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://www.w3.org/html/)
-[![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)](https://reactjs.org/)
-[![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)](https://nodejs.org/)
-[![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)](https://expressjs.com/)
-[![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)](https://www.mongodb.com/)
-[![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg)](https://firebase.google.com/)
-[![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](https://www.python.org/)
-[![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg)](https://www.djangoproject.com/)
-[![React Native](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)](https://reactnative.dev/)
-[![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)](https://isocpp.org/)
-[![PyCharm](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg)](https://www.jetbrains.com/pycharm/)
-[![Rest API](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)](https://restfulapi.net/)
-[![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)](https://www.java.com/)
-[![Kotlin](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg)](https://kotlinlang.org/)
-[![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg)](https://getbootstrap.com/)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Rest API" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+</div>
 
 ### 😄 Fun Fact:
 
