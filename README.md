@@ -1,12 +1,8 @@
-<div align="center">
-  <h1>Hi there, I'm Muhammad Uzair! 👋</h1>
+### Hi there, I'm Muhammad Uzair! 👋
 
-  🌟 I develop cool websites.<br>
-  🚀 I develop Cross-platform mobile applications.<br>
-  💻 I develop Full Stack web applications.
-</div>
-
-### About Me
+🌟 I develop cool websites.
+🚀 I develop Cross-platform mobile applications.
+💻 I develop Full Stack web applications.
 
 I'm a passionate developer interested in building innovative solutions. Currently, I'm focused on learning and mastering new technologies.
 
@@ -16,18 +12,14 @@ I'm a passionate developer interested in building innovative solutions. Currentl
 
 ### 📫 Connect with Me:
 
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammad-uzair-858753259/)
-  [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/@CodeCraftingwithUzair)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/mu2602659)
-  [![Gmail](https://img.shields.io/badge/Gmail-Contact-red)](mailto:mu2602659@gmail.com)
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammad-uzair-858753259/)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/@CodeCraftingwithUzair)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/mu2602659)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red)](mailto:mu2602659@gmail.com)
 
 ### 🛠️ Tools & Technologies:
 
-<div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,python,django,cpp,pycharm,java,kotlin,bootstrap)](https://skillicons.dev)
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,python,django,reactnative,cpp,pycharm,java,kotlin,bootstrap)](https://skillicons.dev)
 
 ### 😄 Fun Fact:
 
