@@ -5,8 +5,8 @@
   🚀 I develop Cross-platform mobile applications.<br>
   💻 I develop Full Stack web applications.
 </div>
+### 📫 Connect with Me:
 <div align="center">
-<p>📫 Connect with Me:</p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammad-uzair-858753259/)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/@CodeCraftingwithUzair)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/mu2602659)
